@@ -2,9 +2,9 @@
 
 [logan@selleytech.com](mailto:logan@selleytech.com)
 
-http://www.selleytech.com
+[http://www.selleytech.com](http://www.selleytech.com)
 
-http://www.linkedin.com/in/logan-selley-411872172/
+[Linkedin](http://www.linkedin.com/in/logan-selley-411872172/)
 
 # Summary
 
@@ -25,7 +25,7 @@ http://www.linkedin.com/in/logan-selley-411872172/
 
 # Education
 ## - [University of Washington (Seattle, Washington)](www.uw.edu)
-![Uw logo](images/UW-Logo.png)
+![Uw logo](/Images/UW-Logo.png)
 
 - BA in Geography: Data Science (2016 - Present)
 - Minors in [informatics](https://ischool.uw.edu/programs/informatics/what-is-informatics) and music
