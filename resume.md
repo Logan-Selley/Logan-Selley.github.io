@@ -25,7 +25,7 @@
 
 # Education
 ## - [University of Washington (Seattle, Washington)](www.uw.edu)
-![Uw logo](/Images/UW-Logo.png)
+<img src="Images/UW-Logo.png" alt="UW Logo" width="250px" height="250px"/>
 
 - BA in Geography: Data Science (2016 - Present)
 - Minors in [informatics](https://ischool.uw.edu/programs/informatics/what-is-informatics) and music
